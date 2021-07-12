@@ -1,11 +1,11 @@
 # LGMVIP Projects:
 
-### List of projects I ,Saranya Bhattacharjee, have completed as an Intern at LGM.
+### List of projects I have completed as an Intern at LGM.
 
 
 # TASK 1 -
 
-Name: HashCom
+Website Name: HashCom
 
 Type: Frontend
 
