@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 75px;
+  background-color: rgba(11, 82, 79, 0.87);
+  color: rgb(206, 250, 229);
+}
+
+.logo {
+  font-size: 30px;
+}
+
+.nav-links {
+  display: flex;
+  justify-content: flex-end;
+  list-style: none;
+  width: 75%;
+}
+
+.mobile-menu-icon {
+  display: none;
+}
