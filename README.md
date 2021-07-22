@@ -1,6 +1,8 @@
+# <b> <p align="center"> Hello, everyone! 👋 </p>  </b>
+
 # LGMVIP Projects:
 
-### List of projects I have completed as an Intern at LGM.
+### List of projects I have completed as an Intern at LetsGrowMore.
 
 
 # TASK 1 -
