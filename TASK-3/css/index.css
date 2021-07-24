@@ -1,0 +1,94 @@
+body {
+  font-family: 'montserrat', sans-serif, Verdana, Tahoma;
+}
+
+.parallax1 {
+  background-image: url('../assets/parallax/parallax-about-back-opt.jpg');
+  min-height: 270px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #fff;
+  text-shadow: 5px 5px 8px rgba(7, 37, 28, 0.74);
+}
+
+#about {
+  margin-top: 5.2rem;
+  text-align: center;
+}
+
+.heading {
+  margin: 2%;
+  font-weight: 600;
+  text-align: center;
+}
+
+.about-text {
+  line-height: 1.7;
+  padding: 6% 8%;
+  font-weight: 500;
+  color: #fff;
+}
+
+.association {
+  padding: 3%;
+  width: auto;
+}
+
+.about-text-2 {
+  line-height: 1.7;
+  padding: 6% 8%;
+  font-weight: 500;
+  color: #fff;
+  background-color: rgba(13, 117, 95, 0.815);
+}
+
+#testimonials {
+  color: #fff;
+  padding: 3% 7%;
+  text-align: center;
+}
+
+.about-text,
+#testimonials {
+  background-color: #046151dc;
+}
+
+.testimonial-img {
+  width: 18%;
+  border-radius: 100%;
+}
+
+.testimonial-name {
+  margin-top: 2%;
+  font-weight: bold;
+}
+
+.testimonial-text {
+  line-height: 1.5;
+}
+
+@media (max-width: 768px) {
+  #about {
+    top: 20rem;
+  }
+
+  .about-text,
+  .about-text-2 {
+    font-size: 1rem;
+  }
+
+  .testimonial-text {
+    font-size: 15px;
+  }
+
+  .testimonial-img {
+    width: 40%;
+  }
+}
+
+.icon-link {
+  margin: 2% 1%;
+  color: #000;
+}

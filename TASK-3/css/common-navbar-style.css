@@ -1,0 +1,11 @@
+body {
+  font-family: 'montserrat', sans-serif, Verdana, Tahoma;
+}
+
+.navbar {
+  background: #044238cc !important;
+}
+
+.head {
+  padding-top: 10rem;
+}
