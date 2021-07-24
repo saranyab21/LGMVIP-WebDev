@@ -49,3 +49,6 @@ Demo: (Video Compressed to 10 MB For Uploading)
 https://user-images.githubusercontent.com/79959032/126875923-8f6c9ba2-3dc4-4dc6-90d9-09931e4be676.mp4
 
 
+
+# Medium article link:
+https://saranyabhattacharjee.medium.com/my-experience-at-letsgrowmore-virtual-internship21-b156520b699e
