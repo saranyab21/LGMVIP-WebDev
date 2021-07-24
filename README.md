@@ -41,6 +41,11 @@ Website Name: Student Result Management Site LGM
 Mchill University
 
 Tech: HTML, CSS, JavaScript, PHP and MySQL.
-Status:In-Progress
+
+Status:Completed
 
 Demo: (Video Compressed to 10 MB For Uploading)
+
+https://user-images.githubusercontent.com/79959032/126875923-8f6c9ba2-3dc4-4dc6-90d9-09931e4be676.mp4
+
+
